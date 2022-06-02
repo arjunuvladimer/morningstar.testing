@@ -3,3 +3,7 @@ function add(){
 }
 
 add()
+
+function div(){
+    console.log(divide);
+}
