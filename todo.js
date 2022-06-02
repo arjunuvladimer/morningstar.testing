@@ -5,5 +5,9 @@ function add(){
 add()
 
 function div(){
-    console.log(divide);
+    let y = 8;
+}
+
+function Mul(){
+    let x = 9;
 }
